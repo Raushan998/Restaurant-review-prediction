@@ -12,7 +12,7 @@ when customer usually visit restaurant, they are having good and bad experience 
 
 ## Preprocessing
 
-* cleaning the dataset using regex.
+* cleaning the dataset.
 * collecting the important features of all reviews given by customers as positive and negative.
 * Splitting the dataset into training set and test set.
 * Training Set-80%
