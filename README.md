@@ -22,6 +22,7 @@ when customer usually visit restaurant, they are having good and bad experience 
 ![alt text](https://github.com/Raushan998/Restaurant-review-prediction/blob/master/Restaurant_prediction.png)
 
 ## Result
+Accuracy for different Algorithm:
 
 * Support Vector Machine Algorithm-48.5%
 * KNeighborsClassifier Algorithm-61%
