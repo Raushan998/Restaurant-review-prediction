@@ -33,9 +33,9 @@ Accuracy for different Algorithm:
 ## Confusion Matrix
 
 * Support Vector Machine Algorithm
-|----|----|
-| 97 | 0 |
-| 103 | 0 |
+
+      | 97 | 0 |
+      | 103 | 0 |
        
 * KNeighboursClassifier Algorithm
 
