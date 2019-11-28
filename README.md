@@ -30,7 +30,9 @@
 
 * Support Vector Machine Algorithm
        |----|----|
+       
        | 97 | 0 |
+       
        | 103 | 0 |
        
 * KNeighboursClassifier Algorithm
