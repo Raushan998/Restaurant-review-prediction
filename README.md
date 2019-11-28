@@ -29,6 +29,7 @@
 ## Confusion Matrix
 
 * Support Vector Machine Algorithm
+       |----|----|
        | 97 | 0 |
        | 103 | 0 |
        
