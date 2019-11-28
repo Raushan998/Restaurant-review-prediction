@@ -1,6 +1,6 @@
 # Restaurant-review-prediction
 
-### when customer usually visit restaurant, they are having good and bad experience with restaurant,they usually review their experience on restaurant app or website or at google Map.so,we analysed on the data set for knowing positive and negative review.
+when customer usually visit restaurant, they are having good and bad experience with restaurant,they usually review their experience on restaurant app or website or at google Map.so,we analysed on the data set for knowing positive and negative review.
 
 ## Library Used
 
@@ -17,6 +17,9 @@
 * Splitting the dataset into training set and test set.
 * Training Set-80%
 * Test Set-20%
+
+## prediction
+![alt text](https://github.com/Raushan998/Restaurant-review-prediction/blob/master/Restaurant_prediction.png)
 
 ## Result
 
