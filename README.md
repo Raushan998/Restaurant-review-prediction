@@ -29,25 +29,28 @@
 ## Confusion Matrix
 
 * Support Vector Machine Algorithm
-       |----|----|
+       
        
        | 97 | 0 |
-       
        | 103 | 0 |
        
 * KNeighboursClassifier Algorithm
+
        | 74 | 23 |
        | 55 | 48 |
 
 * Logistic Regression Algorithm
+
         | 76 | 21 |
         | 37 | 66 |
         
  * DecisionTree Classifier
+ 
         | 76 | 21 |
         | 37 | 66 |
         
  * Gaussian Naive Baye's Algorithm
+ 
         | 54 | 42 |
         | 12 | 91 |
   
