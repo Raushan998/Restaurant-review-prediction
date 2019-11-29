@@ -4,7 +4,7 @@ when customer usually visit restaurant, they are having good and bad experience 
 
 ## Library Used
 
-* Natural Language Processing
+* Nltk
 * Numpy
 * Pandas
 * Matplotlib
